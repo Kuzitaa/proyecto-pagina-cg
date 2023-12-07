@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background-color: lightgray;
+}
+h1 {
+	font-size: 2rem;
+}
+img {
+	width: 800px;
+}
+.caja {
+	display: flex;
+	justify-content: space-evenly;
+}
+.caja img {
+	width: 200px;
+}
